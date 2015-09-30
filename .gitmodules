@@ -4,3 +4,6 @@
 [submodule "clans"]
 	path = clans
 	url = git@github.com:FAForever/clans.git
+[submodule "patchnotes"]
+	path = patchnotes
+	url = git@github.com:FAForever/patchnotes.git
