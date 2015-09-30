@@ -1,0 +1,6 @@
+[submodule "website"]
+	path = website
+	url = git@github.com:FAForever/website.git
+[submodule "clans"]
+	path = clans
+	url = git@github.com:FAForever/clans.git
