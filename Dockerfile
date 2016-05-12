@@ -26,3 +26,6 @@ ADD conf /etc/nginx/sites-enabled
 
 # Install our code into /faf
 ADD . /faf
+
+# Build App
+RUN (cd /faf/clans/ && exec python3 /faf/clans/build.py)
